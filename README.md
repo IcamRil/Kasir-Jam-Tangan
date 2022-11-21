@@ -21,6 +21,16 @@ Code untuk dipelajari ya guyss bukan untuk copas:D
 
 4.Click Open Project.
 
+# Cara membuka/melihat GUI JForm
+
+Untuk kalian yang baru pertama kali mencoba membuat GUI ini adalah cara melihat nya!
+
+1.Click Project JForm Kalian
+
+2.Lalu Click Design seperti gambar berikut : 
+![image](https://user-images.githubusercontent.com/116277948/203039201-301e8366-81d6-4ef9-a2c5-15c73ebdafff.png)
+
+
 
 
 
