@@ -10,6 +10,7 @@ public class Class {
     private static Connection koneksi;
     
     public static Connection getConnection() throws SQLException{
+        //untuk db nya kalian isi sesuai nama database kalian ya!
         String db = "jdbc:mysql://localhost:3306/database_kasir";
         String user = "root";
         String pass = "";
