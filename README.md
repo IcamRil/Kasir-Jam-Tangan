@@ -13,6 +13,7 @@ Code untuk dipelajari ya guyss bukan untuk copas:D
 1.Buka Netbeans
 
 2.Lalu di pojok kiri atas klik File dan Open Project
+
 ![image](https://user-images.githubusercontent.com/116277948/203035636-7f1fd192-d623-42b1-8eb5-2f7166e48e3f.png)
 
 3.Lalu pilih file yang ingin di open
